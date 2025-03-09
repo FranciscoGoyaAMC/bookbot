@@ -56,3 +56,7 @@ bookbot/
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou sugerir novos recursos! Basta abrir uma issue ou enviar um pull request.
+
+## 
+
+Desenvolvido por [Francisco Goya](https://github.com/FranciscoGoyaAMC)
